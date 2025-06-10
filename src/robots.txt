@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naturs.be/sitemap.xml
+
+# Block unnecessary folders if present (adjust if applicable)
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+
+# Optional crawl-delay if you're getting hammered (rare for static sites)
+# Crawl-delay: 10
