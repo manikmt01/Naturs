@@ -1,8 +1,8 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 
 @theme {
-  --font-Inter: 'Inter', sans-serif;
-  --font-Georgia: 'Georgia';
+  --font-Inter: "Inter", sans-serif;
+  --font-Georgia: "Georgia", sans-serif;
 
   --screen-xsm: 370px;
   --screen-sm: 480px;
@@ -65,6 +65,7 @@ body {
 }
 .tab-button.active {
   border-color: #2b3326 !important;
+  color: #2b3326 !important;
 }
 
 .tab-content {
