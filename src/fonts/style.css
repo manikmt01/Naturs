@@ -5,6 +5,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Georgia Regular'), url('georgia.woff') format('woff');
+     font-display: swap;
     }
     
 
@@ -13,6 +14,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Georgia Italic'), url('georgiai.woff') format('woff');
+     font-display: swap;
     }
     
 
@@ -21,6 +23,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Georgia Bold'), url('georgiab.woff') format('woff');
+     font-display: swap;
     }
     
 
@@ -29,4 +32,5 @@
     font-style: normal;
     font-weight: normal;
     src: local('Georgia Bold Italic'), url('georgiaz.woff') format('woff');
+     font-display: swap;
     }
